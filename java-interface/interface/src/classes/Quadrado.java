@@ -7,6 +7,7 @@ public class Quadrado implements FiguraGeometrica {
     public Quadrado(int lado) {
         this.lado = lado;
     }
+
     // metodo especifico
     @Override
     public double calcularArea() {
