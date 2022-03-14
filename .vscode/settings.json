@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "exercicios/ex2/hospedagemVip",
+        "exercicios/ex1",
+        "exercicios/ex3/salariosEBeneficios"
+    ]
+}
