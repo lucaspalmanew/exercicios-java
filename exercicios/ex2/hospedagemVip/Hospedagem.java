@@ -1,5 +1,3 @@
-
-
 public class Hospedagem{
 
     private Double valor;
